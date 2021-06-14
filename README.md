@@ -1,4 +1,4 @@
-# Projeto_Generation_SysVac
+# Projeto_Generation
 
 Projeto final do bloco 1. Sistema de cadastramento para vacinação contra a Covid-19.
 
